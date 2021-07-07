@@ -1,6 +1,7 @@
 # go-tour
 me exploring golang
 
+[merged into https://github.com/sergeiudris/ipfs-lab]
 
 - [How to Write Go](https://golang.org/doc/code.html)
 - [Effective Go](https://golang.org/doc/effective_go.html)
