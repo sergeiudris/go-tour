@@ -1,7 +1,6 @@
 # go-tour
 me exploring golang
 
-[archived]
 
 - [How to Write Go](https://golang.org/doc/code.html)
 - [Effective Go](https://golang.org/doc/effective_go.html)
