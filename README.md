@@ -1,5 +1,5 @@
 # go-tour
-me exploring golang
+exploring golang
 
 
 - [How to Write Go](https://golang.org/doc/code.html)
